@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: #FF9671;
+    margin: 10px;
+}
+
+body h1 {
+    color: #845EC2;
+}
+
+body button a {
+    margin: 20px;
+    color: #D65DB1;
+    text-decoration: none;
+    height: 25px;
+}
+
+@media (min-device-width: 900px) {
+     body { width:100%; } 
+    }
